@@ -5,24 +5,24 @@ function getHeader() {
   return (
     <header className="max-w-7xl m-auto text-center">
       <button>
-          <h1 className="text-4xl font-bold text-white uppercase">Home</h1>
-          <h3 className="text-lg text-white tracking-wider" >description</h3>
+          <img src={logo} className="text-4xl h-20" alt="logo" />
+          <h3 className="text-lg text-white tracking-wider"></h3>
       </button>
     </header>
   );
 }
 
 function getBody() {
-  return <img src={logo} className="App-logo" alt="logo" />;
+  return;
 }
 
 function getFooter() {
   return (
     <footer className="max-w-7xl mx-auto">
       <div className="flex justify-center text-white">
-          <button className="hover:underline">HOME</button>
+          <button className="hover:underline">Home</button>
           <span className="mx-3">•</span>
-          <button className="hover:underline">INFO</button>
+          <button className="hover:underline">Info</button>
           <span className="mx-3">•</span>
           <button className="hover:underline">Privacy</button>
       </div>

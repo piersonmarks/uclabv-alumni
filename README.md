@@ -1,3 +1,24 @@
+# UCLA Bruin Ventures Alumni Website
+Core Contributors: 
+* Pierson Marks (UCLA, Class of 2020) 
+
+## Description
+This package serves as the source material for the UCLA Bruin Ventures Alumni Website. This is an ongoing project that is an effort to stay in touch with BV alumni.
+
+If you would like to contribute (developing new features, financial donations, blog posts, etc.), please email Pierson at pmarks98@gmail.com.
+
+### Development:
+* Phase 0: 
+ * Basic Homepage
+ 
+* Ideas: 
+ * Static Contact Pages. I don't really want this because I don't want contact info floating around. 
+ * Log in and create a profile. Profiles contain Name, Class, Major, contact info, Linkedin, Bio, Picture, etc. 
+ * Required to submit email. Subscribe to email list. 
+ * A profile page to edit your own profile. 
+ * A profiles page to view others profiles. Search?
+ * Blog. Anyone can post to it. Links your post to your profile?
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
