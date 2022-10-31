@@ -9,7 +9,7 @@ If you would like to contribute (developing new features, financial donations, b
 
 ### Development:
 * Phase 0: 
- * Basic Homepage
+ * Basic Homepage?
  
 * Ideas: 
  * Static Contact Pages. I don't really want this because I don't want contact info floating around. 
